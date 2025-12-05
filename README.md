@@ -40,8 +40,8 @@ Identify patterns (e.g., more passengers in 3rd class, survival differences by g
 
 ## Program
 ```
-Name : Bharathganesh S
-Reg No : 212222230022
+Name : sharukesh S
+Reg No : 212224220095
 ```
 ```py
 
